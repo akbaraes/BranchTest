@@ -3,9 +3,3 @@ Akbar Testing Branch
 Testing the branch
 
 Files are modified
-
-
-ssh-keygen -t rsa -C "akbarjinna.m@gmail.com"
-
-
-File line are added.
